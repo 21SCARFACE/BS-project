@@ -1,0 +1,3 @@
+[submodule "BS-project"]
+	path = BS-project
+	url = https://github.com/21SCARFACE/BS-project.git
